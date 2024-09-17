@@ -1,5 +1,5 @@
 # Sales-analysis
-Sales analysis for a supermarket chain
+Sales analysis of a supermarket chain
 
 
 This project consists of supporting a company in creating advanced analysis tools to make data-based decisions, improve efficiency and optimise sales and marketing strategies.
