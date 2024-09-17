@@ -1,4 +1,4 @@
-# Sales-analysis
+# Sales analysis
 Sales analysis of a supermarket chain
 
 
